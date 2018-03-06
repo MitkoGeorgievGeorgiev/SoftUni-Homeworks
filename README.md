@@ -1,3 +1,3 @@
 # SoftUni-Homeworks
 SoftUni-ProgrmigFundamentals
-Just test
+Resolving the conflict
